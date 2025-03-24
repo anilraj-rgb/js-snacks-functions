@@ -14,3 +14,4 @@ const result = Select_Names_By_Letter_Initial(names, 'A');
 
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]
+console.log(result);
