@@ -17,6 +17,8 @@ function CountVowels(str) {
  }
 
 // Invoca la funzione qui e stampa il risultato in console
+const word = 'javascript';
+console.log(CountVowels(word));
 
 
 
