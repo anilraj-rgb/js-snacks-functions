@@ -9,6 +9,7 @@ function Select_Names_By_Letter_Initial(names, letter) {
 }
 
 // Invoca la funzione qui e stampa il risultato in console
+const result = Select_Names_By_Letter_Initial(names, 'A');
 
 
 
